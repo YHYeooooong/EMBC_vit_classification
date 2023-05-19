@@ -32,7 +32,7 @@ VIT 모델 3개, MLP-Mixer 모델 2개, CNN 모델 2개를 선정하여 유방�
 | DenseNet121 | ImageNet  |
 | ResNet50 | ImageNet  |
 
-##### 분류 성능
+### 결과 및 결론
 
 ![결과 표](https://github.com/YHYeooooong/EMBC_vit_classification/assets/43724177/ee69d6aa-b559-4e60-b970-91a3ec02d410)
 
